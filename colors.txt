@@ -1,0 +1,5 @@
+verde fosfo: #12E019
+morado fosfo: #C237DB
+naranja: orange
+amarillo: green
+aqua: #00ffff
